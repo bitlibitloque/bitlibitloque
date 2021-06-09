@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Android, Java, Kotlin, Clean Code, DRY, KISS
+- 🔭 I’m currently working on Android, Java, Kotlin, Clean Code, DRY, KISS...
 - 🌱 I’m currently learning Script, PRO Git, CI/CA, DevOps.
 - 👯 I’m looking to collaborate on a project with more people.
-- 🤔 I’m looking for help with pair programing.
+- 💻 Languages: Java and Kotlin
 - 💬 Ask me about anything.
 - 📫 How to reach me: here.
-- 😄 Pronouns: us.
 - ⚡ Fun fact: magic & comedy.
 
 <!--
