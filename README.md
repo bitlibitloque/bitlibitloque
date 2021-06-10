@@ -8,6 +8,8 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jesusrojoprogramador/).
 - ⚡ Fun fact: Magic & Comedy  🎩 ♠️ ♥️ ♣️ ♦️ 🃏 🎭 🎪 🎤
 
+![AJK](https://github.com/bitlibitloque/bitlibitloque/blob/main/android-java-kotlin512.png")
+
 <!--
 **bitlibitloque/bitlibitloque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
