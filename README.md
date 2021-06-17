@@ -8,7 +8,7 @@
 
 \
 \
-![AJK](https://github.com/bitlibitloque/bitlibitloque/blob/main/android-java-kotlin512.png)
+![Android-Java-Kotlin](https://github.com/bitlibitloque/bitlibitloque/blob/main/android-java-kotlin256.png)
 
 <!--
 **bitlibitloque/bitlibitloque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
